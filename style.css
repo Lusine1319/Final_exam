@@ -1,0 +1,42 @@
+.header
+{
+    height: 250px;
+    background-image: url("images/header.jpg");
+    background-size: cover;
+    text-align: center;
+    color: #bfd5ff;
+    font-size: 70px;
+    padding-top: 60px;
+    position: relative;
+
+}
+a
+{
+    text-decoration: none;
+    font-size: 25px;
+    color: whitesmoke;
+    border-bottom:solid whitesmoke thin;
+}
+a:hover
+{
+    color: blueviolet;
+    border-bottom: blueviolet;
+}
+ul
+{
+    list-style-type: none;
+}
+#leftmenu
+{
+    position: relative;
+  float: left;
+    width: 200px;
+
+}
+#text
+{
+    float: left;
+    text-align: justify;
+    width: 800px;
+    padding-top:22px ;
+}
